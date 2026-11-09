@@ -1,0 +1,3 @@
+test('Verify login', async ({ page }) => {
+  await page.goto('https://example.com');
+});
